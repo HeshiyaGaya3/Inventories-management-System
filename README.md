@@ -5,20 +5,21 @@ The primary goal of an inventory management system is to ensure that a company h
 This project is consists of user-friendly features and functionalities
 
 Features :
-1.Home/Inventory List
-2.Customer Management
-3.Category Management
-4.Brand Management
-5.Supplier Management
-6.Product Management
-7.Purchase Management
-8.Order Management
-9.Login and Logout
+## Points in a Line
+* 1.Home/Inventory List
+* 2.Customer Management
+* 3.Category Management
+* 4.Brand Management
+* 5.Supplier Management
+* 6.Product Management
+* 7.Purchase Management
+* 8.Order Management
+* 9.Login and Logout
 
-#Requirements
+# Requirements
 Download and Install local web server XAMPP.
 
-#Setup
+# Setup
 1.Open your XAMPP Control Panel and start Apache and MySQL.
 2.Extract the downloaded source code zip file.
 3.Copy the extracted source code folder and paste it into the XAMPP's "htdocs" directory.
