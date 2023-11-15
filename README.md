@@ -4,7 +4,8 @@ This simple project is a Simple Inventory Management System. This is a web-based
 The primary goal of an inventory management system is to ensure that a company has the right amount of stock in the right place at the right time and at the right cost
 This project is consists of user-friendly features and functionalities
 
-Features :
+Features 
+
 1. Home/Inventory List
 2. Customer Management
 3. Category Management
