@@ -7,15 +7,15 @@ This project is consists of user-friendly features and functionalities
 Features :
 
 ## Points in a Line
-*1.Home/Inventory List
-* 2.Customer Management
-* 3.Category Management
-* 4.Brand Management
-* 5.Supplier Management
-* 6.Product Management
-* 7.Purchase Management
-* 8.Order Management
-* 9.Login and Logout
+1. Home/Inventory List
+2. Customer Management
+3. Category Management
+4. Brand Management
+5. Supplier Management
+6. Product Management
+7. Purchase Management
+8. Order Management
+9. Login and Logout
 
 # Requirements
 Download and Install local web server XAMPP.
