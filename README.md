@@ -5,8 +5,6 @@ The primary goal of an inventory management system is to ensure that a company h
 This project is consists of user-friendly features and functionalities
 
 Features :
-
-## Points in a Line
 1. Home/Inventory List
 2. Customer Management
 3. Category Management
